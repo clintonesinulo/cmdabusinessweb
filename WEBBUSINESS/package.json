@@ -1,0 +1,10 @@
+{
+  "name": "cmda-nauth-erp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CMDA-NAUTH Business Unit ERP",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@vercel/kv": "^1.0.0"
+  }
+}
